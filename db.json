@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "testuser1",
+      "age": "23",
+      "address": "test address",
+      "role": "test role",
+      "salary": "25000",
+      "maritalStatus": false
+    },
+    {
+      "name": "testuser2",
+      "age": "26",
+      "address": "test address 2",
+      "department": "product_manager",
+      "salary": "40000",
+      "martialStatus": false,
+      "id": 2
+    },
+    {
+      "name": "testuser3",
+      "age": "30",
+      "address": "test address 3",
+      "department": "developer",
+      "salary": "40000",
+      "martialStatus": true,
+      "id": 3
+    },
+    {
+      "name": "testuser4",
+      "age": "29",
+      "address": "test address 4",
+      "department": "developer",
+      "salary": "50000",
+      "martialStatus": false,
+      "id": 4
+    },
+    {
+      "name": "testuser4",
+      "age": "29",
+      "address": "test address 4",
+      "department": "developer",
+      "salary": "50000",
+      "martialStatus": false,
+      "id": 5
+    },
+    {
+      "name": "testuser5",
+      "age": "36",
+      "address": "test address 5",
+      "department": "product_manager",
+      "salary": "6000",
+      "martialStatus": true,
+      "id": 6
+    }
+  ]
+}
